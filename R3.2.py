@@ -55,7 +55,7 @@ def process_data(input_file, output_file, log_file):
 # Directorios de trabajo
 input_dir = "./entrada"
 output_dir = "./sortida"
-log_dir = "./log"
+log_dir = "."
 
 # Procesamos los archivos
 process_files(input_dir, output_dir, log_dir)
